@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\HostingWCF.exe.config
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\HostingWCF.exe
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\HostingWCF.pdb
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\ServiceWCLExemple.dll
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\ServiceWCLExemple.pdb
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\bin\Debug\ServiceWCLExemple.dll.config
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.csproj.CopyComplete
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.exe
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\HostingWCF\obj\Debug\HostingWCF.pdb
