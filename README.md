@@ -1,5 +1,5 @@
 # soap-wcf-donet
-Expose and consumer web service in soap using convention/model WCL
+Expose soap endpoint using convention/model WCL
 
 ![xxxe](https://user-images.githubusercontent.com/25963928/161650284-7a9026eb-41ed-45cd-9c7a-da5ff8dc403c.png)
 
