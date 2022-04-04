@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\bin\Debug\ServiceWCLExemple.dll.config
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\bin\Debug\ServiceWCLExemple.dll
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\bin\Debug\ServiceWCLExemple.pdb
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\obj\Debug\ServiceWCLExemple.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\obj\Debug\ServiceWCLExemple.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\obj\Debug\ServiceWCLExemple.dll
+C:\Users\lucas\Desktop\wcf-donet\ServiceWCLExempleSolution\ServiceWCLExemple\obj\Debug\ServiceWCLExemple.pdb
