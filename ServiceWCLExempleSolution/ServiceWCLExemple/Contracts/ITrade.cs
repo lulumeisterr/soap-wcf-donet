@@ -3,7 +3,7 @@
  * Para falar para o WCF que essa interface é um contrato de serviço
  * Deve-se definir a ServiceContract e As operacoes de contrato OperationContract
  */
-namespace ServiceWCLExemple.Contracts
+namespace ServiceWCFExemple.Contracts
 {
 
     [ServiceContract]

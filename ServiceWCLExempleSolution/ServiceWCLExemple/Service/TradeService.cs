@@ -1,9 +1,9 @@
-﻿using ServiceWCLExemple.Contracts;
+﻿using ServiceWCFExemple.Contracts;
 using System.Collections.Generic;
 using System.Linq;
 
 
-namespace ServiceWCLExemple.Service
+namespace ServiceWCFExemple.Service
 {
     public class TradeService : ITrade
     {

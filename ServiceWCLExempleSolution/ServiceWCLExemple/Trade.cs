@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.Serialization;
 
-namespace ServiceWCLExemple
+namespace ServiceWCFExemple
 {
     [DataContract]
     public class Trade

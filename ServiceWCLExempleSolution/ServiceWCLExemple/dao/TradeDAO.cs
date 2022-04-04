@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ServiceWCLExemple.Service
+namespace ServiceWCFExemple.Service
 {
     public class TradeDAO
     {
