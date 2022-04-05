@@ -1,7 +1,7 @@
 # soap-wcf-donet
 Expose soap endpoint using convention/model WCF
 
-![xxxe](https://user-images.githubusercontent.com/25963928/161650284-7a9026eb-41ed-45cd-9c7a-da5ff8dc403c.png)
+![wcf](https://user-images.githubusercontent.com/25963928/161652808-bdc0276a-419b-426d-bd49-333def1401ba.png)
 
 # Documentation
 
